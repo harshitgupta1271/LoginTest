@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-06-04T02:08:43 IST" name="Default suite" finished-at="2025-06-04T02:09:36 IST" duration-ms="52091">
+    <groups>
+    </groups>
+    <test started-at="2025-06-04T02:08:43 IST" name="Default test" finished-at="2025-06-04T02:09:36 IST" duration-ms="52091">
+      <class name="login.positiveLoginFlow">
+        <test-method is-config="true" signature="setup()[pri:0, instance:login.positiveLoginFlow@1283bb96]" started-at="2025-06-04T02:08:43 IST" name="setup" finished-at="2025-06-04T02:08:48 IST" duration-ms="4721" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="login()[pri:1, instance:login.positiveLoginFlow@1283bb96]" started-at="2025-06-04T02:08:48 IST" name="login" finished-at="2025-06-04T02:08:52 IST" duration-ms="3473" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:login.positiveLoginFlow@1283bb96]" started-at="2025-06-04T02:08:52 IST" name="teardown" finished-at="2025-06-04T02:08:54 IST" duration-ms="2107" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:login.positiveLoginFlow@1283bb96]" started-at="2025-06-04T02:08:54 IST" name="setup" finished-at="2025-06-04T02:08:58 IST" duration-ms="4492" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testIncorrectUsername()[pri:2, instance:login.positiveLoginFlow@1283bb96]" started-at="2025-06-04T02:08:58 IST" name="testIncorrectUsername" finished-at="2025-06-04T02:09:02 IST" duration-ms="3341" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testIncorrectUsername -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:login.positiveLoginFlow@1283bb96]" started-at="2025-06-04T02:09:02 IST" name="teardown" finished-at="2025-06-04T02:09:04 IST" duration-ms="2077" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:login.positiveLoginFlow@1283bb96]" started-at="2025-06-04T02:09:04 IST" name="setup" finished-at="2025-06-04T02:09:08 IST" duration-ms="4730" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testIncorrectPassword()[pri:3, instance:login.positiveLoginFlow@1283bb96]" started-at="2025-06-04T02:09:08 IST" name="testIncorrectPassword" finished-at="2025-06-04T02:09:12 IST" duration-ms="3831" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testIncorrectPassword -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:login.positiveLoginFlow@1283bb96]" started-at="2025-06-04T02:09:12 IST" name="teardown" finished-at="2025-06-04T02:09:14 IST" duration-ms="2090" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:login.positiveLoginFlow@1283bb96]" started-at="2025-06-04T02:09:14 IST" name="setup" finished-at="2025-06-04T02:09:19 IST" duration-ms="4563" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testBothIncorrect()[pri:4, instance:login.positiveLoginFlow@1283bb96]" started-at="2025-06-04T02:09:19 IST" name="testBothIncorrect" finished-at="2025-06-04T02:09:23 IST" duration-ms="3883" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testBothIncorrect -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:login.positiveLoginFlow@1283bb96]" started-at="2025-06-04T02:09:23 IST" name="teardown" finished-at="2025-06-04T02:09:25 IST" duration-ms="2071" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:login.positiveLoginFlow@1283bb96]" started-at="2025-06-04T02:09:25 IST" name="setup" finished-at="2025-06-04T02:09:30 IST" duration-ms="5593" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="accessControlTest()[pri:5, instance:login.positiveLoginFlow@1283bb96]" started-at="2025-06-04T02:09:30 IST" name="accessControlTest" finished-at="2025-06-04T02:09:33 IST" duration-ms="2968" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- accessControlTest -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:login.positiveLoginFlow@1283bb96]" started-at="2025-06-04T02:09:33 IST" name="teardown" finished-at="2025-06-04T02:09:36 IST" duration-ms="2080" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- login.positiveLoginFlow -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
