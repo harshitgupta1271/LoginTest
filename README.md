@@ -22,9 +22,6 @@
 
 ### 2. Negative Login Scenarios
 Test the following combinations:
-- Inc
-📋 Summary
-This project automates end-to-end QA testing for a login-protected application:
 🔗 Practice Test Automation Login Page
 
 The tasks cover the following:
