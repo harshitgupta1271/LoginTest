@@ -1,4 +1,4 @@
-# QA Automation Challenge – Login Flow, Security Validation & Bug Reporting
+# QA Automation Challenge – Login Flow, Security Validation & Bug Reporting using python
 
 ## 🔗 Test Application
 [Practice Test Automation Login Page](https://practicetestautomation.com/practice-test-login/)
