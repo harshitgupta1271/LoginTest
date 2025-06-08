@@ -1,4 +1,4 @@
-g Reporting
+
 📋 Summary
 This project automates end-to-end QA testing for a login-protected application:
 🔗 Practice Test Automation Login Page
